@@ -86,7 +86,6 @@ Menyediakan platform yang efisien dan terstruktur untuk mengelola surat masuk da
    ![tampilan kategori surat](https://github.com/user-attachments/assets/de52ef04-ae36-48e7-a24c-b83b789f6fb7)
 
 4. Halaman About
-   ![about](https://github.com/user-attachments/assets/c1817dd1-ce47-4041-8c30-fb8a0bc991ee)
 
 5. Form Tambah Arsip Surat
    ![tambah arsip surat](https://github.com/user-attachments/assets/dfa38227-d5e2-449d-a86d-e1b7d86d898a)
